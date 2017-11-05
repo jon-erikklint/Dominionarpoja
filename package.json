@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/jon-erikklint/dominionarpoja.git"
   },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
   "keywords": [
     "dominion"
   ],
